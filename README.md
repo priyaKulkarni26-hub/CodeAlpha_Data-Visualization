@@ -1,5 +1,4 @@
 # CodeAlpha_Data-Visualization
-# CodeAlpha_Data-Visualization
 📊 CodeAlpha Internship - Task 3: Data Visualization
 
 ## 📌 Project Overview
